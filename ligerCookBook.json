@@ -1,0 +1,121 @@
+{
+    "foods": [
+        {
+            "name":"PANCAKES (CRÊPES)",
+            "servingSize": 12,
+            "servingUnit": "pancakes",
+            "primaryIngredients":[
+                {"type":"flour", "amount":3, "unit":"cup"},
+                {"type":"eggs", "amount":6, "unit":""},
+                {"type":"milk", "amount":3, "unit":"cup"},
+                {"type":"butter, melted", "amount":6, "unit":"tablespoon"},
+                {"type":"topping (i.e.. banana, pineapple, mango, dragon fruit, maple syrup, condensed sweet milk)", "amount":0, "unit":""}
+            ],
+            "secondaryIngredients":[
+                {"type":"water", "amount":1.5, "unit":"cup"},
+                {"type":"salt", "amount":0.5, "unit":"teaspoon"}
+            ],
+            "instructions":[
+                "In a large mixing bowl, sift the flour and make a well",
+                "In a separate bowl add eggs, milk, melted butter, water and salt, then whisk",
+                "Add egg mixture into flour well, and whisk until smooth",
+                "Heat frying pan, then lightly grease with an oiled paper towel",
+                "When hot, pour a soup ladle and a ½ of batter onto the pan. Quickly tilt the pan in a circular motion, so that batter coats the surface thinly and evenly",
+                "Cook the pancake for about 45 seconds until the bottom is light brown",
+                "Loosen with a spatula, flip and cook the other side for the same time"
+            ],
+            "time": "m",
+            "cost": "c",
+            "nutrientIndex": 50
+        },
+        {
+            "name":"AMERICAN PANCAKES",
+            "servingSize": 12,
+            "servingUnit": "pancakes",
+            "primaryIngredients":[
+                {"type":"flour", "amount":2, "unit":"cup"},
+                {"type":"eggs", "amount":3, "unit":""},
+                {"type":"milk", "amount":500, "unit":"ml"},
+                {"type":"baking powder", "amount":3, "unit":"g"},
+                {"type":"butter, melted", "amount":4, "unit":"spoonfuls"},
+                {"type":"topping (i.e.. banana, pineapple, mango, dragon fruit, maple syrup, condensed sweet milk)", "amount":0, "unit":""}
+            ],
+            "secondaryIngredients":[
+                {"type":"sugar", "amount":50, "unit":"g"}
+            ],
+            "instructions":[
+                "In a large mixing bowl, sift the flour and baking powder together, then make a well",
+                "In a separate bowl add eggs, sugar and milk, then whisk",
+                "Add egg mixture into flour well, and whisk until smooth",
+                "Heat frying pan, then lightly grease with an oiled paper towel",
+                "When hot, place 4 spoonfuls of batter into the pan",
+                "Cook the pancake for about 45 seconds until bubbles have formed on the top",
+                "Using a spatula, flip and cook the other side for the same time"
+            ],
+            "time": "m",
+            "cost": "c",
+            "nutrientIndex": 50
+        },
+        {
+            "name":"FRIED GROUND PORK WITH SOY BEANS",
+            "servingSize": 6,
+            "servingUnit": "serve",
+            "primaryIngredients":[
+                {"type":"pork shoulder", "amount":0.5, "unit":"kg"},
+                {"type":"sweet soy beans", "amount":200, "unit":"g"},
+                {"type":"cloves garlic, minced", "amount":2, "unit":""},
+                {"type":"baking powder", "amount":3, "unit":"g"},
+                {"type":"butter, melted", "amount":4, "unit":"spoonfuls"},
+                {"type":"topping (i.e.. banana, pineapple, mango, dragon fruit, maple syrup, condensed sweet milk)", "amount":0, "unit":""}
+            ],
+            "secondaryIngredients":[
+                {"type":"chicken powder", "amount":1, "unit":"teaspoon"},
+                {"type":"pepper", "amount":0.5, "unit":"teaspoon"},
+                {"type":"sugar", "amount":3, "unit":"teaspoon"},
+                {"type":"oyster sauce", "amount":1, "unit":"teaspoon"},
+                {"type":"fish sauce", "amount":1, "unit":"teaspoon"},
+                {"type":"cooking oil", "amount":2, "unit":"teaspoon"}
+            ],
+            "instructions":[
+                "Grind pork in a meat grinder",
+                "Mince garlic on chopping board",
+                "Heat oil in wok",
+                "Fry the minced garlic until browned",
+                "Add ground pork, and stir until browned",
+                "Add soy beans, and stir",
+                "Add all seasonings",
+                "Cook for 20 minutes, or until pork is cooked through"
+            ],
+            "time": "m",
+            "cost": "c",
+            "nutrientIndex": 50
+        },
+        {
+            "name":"OMELET WITH KHMER HERBS",
+            "servingSize": 6,
+            "servingUnit": "serve",
+            "primaryIngredients":[
+                {"type":"duck or chicken eggs", "amount":12, "unit":""},
+                {"type":"Khmer herbs", "amount":100, "unit":"g"}
+            ],
+            "secondaryIngredients":[
+                {"type":"chicken powder", "amount":1.5, "unit":"teaspoon"},
+                {"type":"pepper", "amount":0.5, "unit":"teaspoon"},
+                {"type":"sugar", "amount":1.5, "unit":"teaspoon"},
+                {"type":"fish sauce", "amount":1.5, "unit":"teaspoon"},
+                {"type":"cooking oil", "amount":2.5, "unit":"tablespoon"},
+                {"type":"salt", "amount":1, "unit":"teaspoon"}
+            ],
+            "instructions":[
+                "Pick the leaves off the stems of the herb, then set aside",
+                "Beat the eggs, then add all seasonings, and whisk",
+                "Add picked leaves to beaten eggs",
+                "Heat one tablespoon cooking oil in a pan, then add 2 ladles of egg mixture. Fry until brown on one side, then flip over. (about 1 min on each side)",
+                "Serve with chili sauce"
+            ],
+            "time": "s",
+            "cost": "c",
+            "nutrientIndex": 50
+        },
+    ]
+}
